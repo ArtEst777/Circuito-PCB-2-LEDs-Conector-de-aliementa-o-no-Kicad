@@ -1,4 +1,4 @@
-Circuito 2 LEDs dos Crias Mecatrônicos
+PCB - 2 LEDs desenvolvido no KiCAD
 ---------------
 
 Descrição Geral
