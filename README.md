@@ -1,4 +1,4 @@
-PCB - 2 LEDs desenvolvido no KiCAD
+PCB 2 LEDs desenvolvido no KiCAD
 ---------------
 
 Descrição Geral
