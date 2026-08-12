@@ -1,6 +1,4 @@
-===========================================================
-Circuito 2 LEDs dos Crias Mecatrônicos
-===========================================================
+*Circuito 2 LEDs dos Crias Mecatrônicos*
 
 Descrição Geral
 ---------------
@@ -142,7 +140,3 @@ Se você está usando este repositório como base para seus próprios estudos, r
 - Canais no YouTube sobre KiCad e eletrônica.
 
 Agradecimento especial ao meu "chat dedicado de IA", que me auxiliou na elaboração desta documentação e na solução de dúvidas durante o desenvolvimento do projeto.
-
-===========================================================
-Fim da Documentação
-===========================================================
