@@ -1,14 +1,11 @@
 PCB 2 LEDs desenvolvido no KiCAD
 ---------------
 
-## Esquemático
-![Esquemático do circuito](doc/esquematico.png)
-
-## Layout da PCB
-![Vista superior da PCB](doc/pcb_frente.png)
-
 ## Visualização 3D
-![Placa em 3D](doc/pcb_3d.png)
+![Placa em 3D](imagens/Circuito_2_Leds_Vizualização_3D.jpg) 
+
+## Esquemático
+![Esquemático do circuito](imagens/Circuito_2_Leds_Esquemático.jpg)
 
 Descrição Geral
 ---------------
