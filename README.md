@@ -1,6 +1,15 @@
 PCB 2 LEDs desenvolvido no KiCAD
 ---------------
 
+## Esquemático
+![Esquemático do circuito](doc/esquematico.png)
+
+## Layout da PCB
+![Vista superior da PCB](doc/pcb_frente.png)
+
+## Visualização 3D
+![Placa em 3D](doc/pcb_3d.png)
+
 Descrição Geral
 ---------------
 Este projeto consiste em uma placa de circuito impresso (PCB) simples que acende dois LEDs (um vermelho e um verde) a partir de uma fonte de alimentação de 5V. O circuito utiliza dois resistores de 100 ohms para limitar a corrente dos LEDs e um plano de terra na camada inferior (B.Cu) para simplificar o roteamento e melhorar a integridade do sinal.
@@ -140,4 +149,4 @@ Se você está usando este repositório como base para seus próprios estudos, r
 - Fórum da comunidade KiCad: https://forum.kicad.info
 - Canais no YouTube sobre KiCad e eletrônica.
 
-Agradecimento especial ao meu "chat dedicado de IA", que me auxiliou na elaboração desta documentação e na solução de dúvidas durante o desenvolvimento do projeto.
+O desenvolvimento desse projeto teve auxílio de um chat de IA, deepseek, que me auxiliou na elaboração desta documentação e na solução de dúvidas durante o desenvolvimento do projeto.
